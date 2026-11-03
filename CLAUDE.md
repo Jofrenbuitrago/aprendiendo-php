@@ -41,7 +41,7 @@
 - Si una URL falla en NotebookLM, buscamos la página equivalente.
 
 ### Semana 1 · Entorno, terminal y Git
-- Fuentes: de Pro Git en español (https://git-scm.com/book/es/v2), solo las secciones 1.1 Acerca del control de versiones, 1.3 Fundamentos de Git, 2.1 Obteniendo un repositorio, 2.2 Guardando cambios y 2.5 Trabajar con remotos (una URL por sección) · https://www.php.net/manual/es/tutorial.php · https://www.php.net/manual/es/tutorial.firstpage.php · https://www.php.net/manual/es/language.basic-syntax.phptags.php · https://www.php.net/manual/es/language.basic-syntax.comments.php
+- Fuentes (9, añadidas con "Añadir fuentes" > sitio web, no en el buscador): https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Acerca-del-Control-de-Versiones · https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Fundamentos-de-Git · https://git-scm.com/book/es/v2/Fundamentos-de-Git-Obteniendo-un-repositorio-Git · https://git-scm.com/book/es/v2/Fundamentos-de-Git-Guardando-cambios-en-el-Repositorio · https://git-scm.com/book/es/v2/Fundamentos-de-Git-Trabajar-con-Remotos · https://www.php.net/manual/es/tutorial.php · https://www.php.net/manual/es/tutorial.firstpage.php · https://www.php.net/manual/es/language.basic-syntax.phptags.php · https://www.php.net/manual/es/language.basic-syntax.comments.php
 - Práctica: repo `aprendiendo-php` creado; script `hola.php` que imprime mi nombre, la fecha y cuántos sitios mantengo; commits diarios.
 
 ### Semana 2 · Variables, tipos y operadores
