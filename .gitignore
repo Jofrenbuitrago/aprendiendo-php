@@ -1,0 +1,5 @@
+# ignora los archivos terminados en .log
+*.log
+
+# ignora todos los archivos del directorio privado/
+privado/
